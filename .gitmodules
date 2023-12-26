@@ -1,0 +1,8 @@
+[submodule "UBOS-template-medialine-ui"]
+	path = UBOS-template-medialine-ui
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-medialine-ui.git
+	branch = main
+[submodule "UBOS-template-medialine-nr"]
+	path = UBOS-template-medialine-nr
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-medialine-nr.git
+	branch = main
